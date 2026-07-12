@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pro Voice Studio</string>
+    <string name="recording_permission_required">Recording permission is required to capture voice and apply audio changes.</string>
+</resources>

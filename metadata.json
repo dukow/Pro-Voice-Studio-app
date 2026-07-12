@@ -1,0 +1,6 @@
+{
+  "name": "Pro Voice Studio",
+  "description": "A professional offline voice recorder and changer with 40+ DSP presets, audio editing, and customizable exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
